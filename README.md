@@ -6,4 +6,4 @@
 
 
 [] controllare che data di nascita in races e cyclists siano coerenti
-[]indagare https://www.procyclingstats.com/calendar/uci/startlist-quality
+[] indagare https://www.procyclingstats.com/calendar/uci/startlist-quality
