@@ -6,6 +6,9 @@ WORKDIR /app
 # Copia i file di progetto nella directory di lavoro
 COPY . .
 
+# Install Jupyter Notebook
+RUN pip install --no-cache-dir jupyter
+
 # Installa le dipendenze del progetto
 RUN pip install --no-cache-dir -r requirements.txt
 
