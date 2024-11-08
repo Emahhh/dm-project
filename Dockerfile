@@ -1,8 +1,7 @@
-# Usa l'immagine di base di Jupyter con Python 3
-FROM jupyter/scipy-notebook:latest
+FROM python:3.9-slim
 
 # Imposta la directory di lavoro
-WORKDIR /home/jovyan/work
+WORKDIR /app
 
 # Copia i file di progetto nella directory di lavoro
 COPY . .
@@ -14,4 +13,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 8888
 
 # Comando per avviare Jupyter Notebook
-CMD ["start-notebook.sh", "--NotebookApp.token=''"]
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''"]
