@@ -1,8 +1,0 @@
-repos:
-  - repo: local
-    hooks:
-      - id: generate-toc
-        name: Generate TOC for Jupyter Notebooks
-        entry: python generate_toc.py
-        language: python
-        files: \.ipynb$
