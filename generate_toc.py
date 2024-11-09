@@ -20,7 +20,7 @@ def generate_toc(notebook_path):
                         continue
                     level = line.count('#')
                     header = line.strip('#').strip()
-                    link = header.lower().replace(' ', '-')
+                    link = header.lower().replace(' ', '-').replace('`', '')
                     toc += f"{'  ' * (level - 1)}- [{header}](#{link})\n"
     
     # Create a new markdown cell with the TOC
