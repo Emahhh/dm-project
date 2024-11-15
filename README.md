@@ -7,7 +7,7 @@
 
 ## TODOs:
 
-[] Number of races participated (count of _url entries per cyclist).
+[x] Number of races participated (count of _url entries per cyclist).
 
 [] ricordarsi di runnare 'python generate_toc.py' per generare la TOC aggiornata all'inizio dei notebooks
 
