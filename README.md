@@ -5,17 +5,9 @@
 -  [http://didawiki.cli.di.unipi.it/doku.php/magistraleinformatica/dmi/start#exams](http://didawiki.cli.di.unipi.it/doku.php/magistraleinformatica/dmi/start#exams)
 
 
-## TODOs:
+## Reminders:
 
-[x] Number of races participated (count of _url entries per cyclist).
-
-[] ricordarsi di runnare 'python generate_toc.py' per generare la TOC aggiornata all'inizio dei notebooks
-
-[] controllare che data di nascita in races e cyclists siano coerenti
-[] indagare https://www.procyclingstats.com/calendar/uci/startlist-quality
-
-
-
+-  ricordarsi di runnare 'python generate_toc.py' per generare la TOC aggiornata all'inizio dei notebooks
 
 
 
