@@ -1,6 +1,6 @@
 # Data Mining Project 24-25
 
-- To execute the Notebooks online: [https://mybinder.org/v2/gh/Emahhh/dm-project/main?labpath=%2FMAIN.ipynb](https://mybinder.org/v2/gh/Emahhh/dm-project/main?labpath=%2FMAIN.ipynb)
+- To execute the Notebooks online: [https://mybinder.org/v2/gh/Emahhh/dm-project/HEAD](https://mybinder.org/v2/gh/Emahhh/dm-project/HEAD)
 
 -  [http://didawiki.cli.di.unipi.it/doku.php/magistraleinformatica/dmi/start#exams](http://didawiki.cli.di.unipi.it/doku.php/magistraleinformatica/dmi/start#exams)
 
