@@ -1,4 +1,5 @@
 absl-py==2.1.0
+altair==5.5.0
 anyio==4.6.2.post1
 aplr==10.8.0
 appnope==0.1.4
@@ -11,6 +12,7 @@ async-lru==2.0.4
 attrs==24.2.0
 babel==2.16.0
 beautifulsoup4==4.12.3
+bitarray==3.0.0
 bleach==6.2.0
 blinker==1.9.0
 certifi==2024.8.30
@@ -27,6 +29,7 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
 dash_cytoscape==1.0.2
+deap==1.4.1
 debugpy==1.8.7
 decorator==5.1.1
 defusedxml==0.7.1
@@ -91,6 +94,7 @@ lazy_loader==0.4
 libclang==18.1.1
 lime==0.2.0.1
 llvmlite==0.43.0
+LORE_ext==1.0.3
 lxml==5.3.0
 Markdown==3.7
 markdown-it-py==3.0.0
@@ -102,6 +106,7 @@ mistune==3.0.2
 ml-dtypes==0.4.1
 multiprocess==0.70.17
 namex==0.0.8
+narwhals==1.20.1
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
@@ -187,6 +192,7 @@ Werkzeug==3.0.6
 widgetsnbextension==4.0.13
 wittgenstein==0.3.4
 wrapt==1.17.0
+XAI-Library==0.0.4
 zipp==3.21.0
 zope.event==5.0
 zope.interface==7.2
